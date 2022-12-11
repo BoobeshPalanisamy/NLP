@@ -1,0 +1,4 @@
+{'name': 'Ramesh', 'contact No.': '9600 841 251', 'address': 'Namakkal', 'ID Proof': 'PAN card', 'ID Proof No.': '3 4 5 6 1 2 3', 'room type': 'AC room', 'arrival date': 'Jan 1', 'departure date': 'Jan 2'} 
+{'name': 'Bhupesh', 'contact No.': '9149 1451 42', 'address': 'Salem', 'ID Proof': 'driving licence', 'ID Proof No.': '1 2 3 3 2 1 1 2 3', 'room type': 'suite room', 'arrival date': 'January 1', 'departure date': 'January 5'} 
+{'name': 'boobesh', 'contact No.': '3149 154145', 'address': 'Namakkal', 'ID Proof': 'Aadhar card', 'ID Proof No.': '1 2 3 3 2 1 1 2 3', 'room type': 'not AC', 'arrival date': 'Jan 1', 'departure date': 'Jan 2'} 
+{'name': 'Arun', 'contact No.': '9600 6888 445', 'address': 'Karur', 'ID Proof': 'driving licence', 'ID Proof No.': '332 1421', 'room type': 'suite room', 'arrival date': 'December 12', 'departure date': 'December 25'} 
